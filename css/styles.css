@@ -1,0 +1,47 @@
+body {
+color: #40514E;
+text-align: center;
+}
+
+.bottom-container {
+  position: relative;
+  top: 20px;
+padding: 30px 0 10px;
+}
+
+.contact-me{
+  width: 40%;
+  margin: auto;
+  position: relative;
+  top: 20px;
+
+}
+
+.btn {
+  background: #798777;
+  background-image: -webkit-linear-gradient(top, #798777, #798777);
+  background-image: -moz-linear-gradient(top, #798777, #798777);
+  background-image: -ms-linear-gradient(top, #798777, #798777);
+  background-image: -o-linear-gradient(top, #798777, #798777);
+  background-image: linear-gradient(to bottom, #798777, #798777);
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  font-family: Arial;
+  color: #9c0606;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top: 10px;
+}
+
+.btn:hover {
+  background: #F7A440;
+  background-image: -webkit-linear-gradient(top, #F7A440, #ffffff);
+  background-image: -moz-linear-gradient(top, #F7A440, #ffffff);
+  background-image: -ms-linear-gradient(top, #F7A440, #ffffff);
+  background-image: -o-linear-gradient(top, #F7A440, #ffffff);
+  background-image: linear-gradient(to bottom, #F7A440, #ffffff);
+  text-decoration: none;
+}
